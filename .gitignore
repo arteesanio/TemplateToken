@@ -1,8 +1,8 @@
-token/node_modules
-token/.env
-token/cache
-token/artifacts
+back/node_modules
+back/.env
+back/cache
+back/artifacts
 
 
-token-dapp/node_modules
-token-dapp/build
+front/node_modules
+front-dapp/build
